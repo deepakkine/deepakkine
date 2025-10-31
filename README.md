@@ -25,7 +25,7 @@ Currently exploring advanced CI/CD pipelines, Kubernetes, and cloud-native secur
 | ⚙️ Automation | Terraform, Jenkins, GitHub Actions |
 | 📊 Monitoring | Prometheus, Grafana, CloudWatch |
 | 🌐 Web Servers | Nginx, Apache HTTPD |
-| 💾 Databases | MySQL, MongoDB |
+| 💾 Databases | PGSQL, MongoDB |
 | 💻 OS & CLI | Linux (Ubuntu), Bash scripting |
 
 ---
