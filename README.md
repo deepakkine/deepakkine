@@ -63,7 +63,6 @@ Currently exploring advanced CI/CD pipelines, Kubernetes, and cloud-native secur
 ## 📈 GitHub Analytics  
 
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakkine&show_icons=true&theme=radical)
-![Apisecurist's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apisecurist&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkine&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepakkine&theme=radical)
 
