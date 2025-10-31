@@ -96,5 +96,6 @@ Currently exploring advanced CI/CD pipelines, Kubernetes, and cloud-native secur
 
 ---
 
-💬 *“Automation is good, so long as you know exactly where to put the machine.”*  
-— **Eliyahu M. Goldratt**
+## 💬 Daily DevOps Quote  
+
+![Quote](https://readme-quote-api.vercel.app/api?theme=radical)
