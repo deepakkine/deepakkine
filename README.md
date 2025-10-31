@@ -98,4 +98,4 @@ Currently exploring advanced CI/CD pipelines, Kubernetes, and cloud-native secur
 
 ## 💬 Daily DevOps Quote  
 
-![Quote](https://readme-quote-api.vercel.app/api?theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
