@@ -9,6 +9,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI/CD+Automation+Expert" />
+</p>
+
+<p align="center">
 💡 Building scalable cloud infrastructure | ⚙️ Automating deployments | 🔐 DevSecOps Enthusiast  
 </p>
 
@@ -33,6 +37,16 @@
 
 ---
 
+## 🚀 Core Expertise  
+
+- ☁️ AWS Cloud Infrastructure (EKS, EC2, VPC, IAM)  
+- ⚙️ CI/CD Automation (GitHub Actions, Jenkins)  
+- 🐳 Containerization (Docker, Kubernetes)  
+- 📊 Monitoring & Observability (Prometheus, Grafana)  
+- 🔐 DevSecOps (Trivy, SonarQube)  
+
+---
+
 ## 🧰 Tech Stack
 
 | Category | Tools |
@@ -49,20 +63,27 @@
 
 ## 🧩 Featured Projects
 
-### 🧠 Project 1: APIX (APISecurist)
-**Roles & Responsibilities:**
-- Designed and managed **Docker-based environments** using Docker Compose for local development and testing.  
-- Migrated containerized applications from **Docker Compose to Kubernetes** for scalability and high availability.  
-- Deployed and maintained **Kubernetes workloads** (Deployments, Services, ConfigMaps, Secrets, Ingress) on **Minikube** and **AWS EKS**.  
-- Built **CI/CD pipelines** in **GitHub Actions** and **Jenkins** to automate builds, Docker image creation, and Kubernetes deployments.  
-- Managed and optimized container images using **Docker**, **AWS ECR**, and **GitHub Packages**.  
-- Configured **Ingress Nginx** as a reverse proxy and load balancer for routing application traffic.  
-- Integrated **Trivy** and **SonarQube** scans into CI/CD workflows for vulnerability detection and code quality checks.  
-- Implemented **application monitoring and alerting** using **Prometheus** and **Grafana dashboards**.  
-- Automated infrastructure provisioning and environment setup using **Terraform** and **Ansible**.  
-- Worked with AWS services (**EC2, S3, VPC, IAM, RDS, EKS**) for hosting and infrastructure management.  
-- Created and enforced **backup strategies** for databases and critical workloads.  
-- Managed **Git branching and version control strategies**, enabling smooth collaboration between Dev and Ops teams.
+### 🧠 APIX (APISecurist)
+
+**Tech Stack:** AWS, EKS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
+
+- Built end-to-end **CI/CD pipeline** for microservices deployment  
+- Migrated apps from **Docker Compose → Kubernetes (EKS)**  
+- Integrated **Trivy & SonarQube** → improved security & code quality  
+- Implemented **Ingress + Load Balancing** for scalable traffic handling  
+- Set up **Prometheus & Grafana monitoring** for real-time observability  
+- Automated infrastructure using **Terraform & Ansible**  
+
+🚀 **Impact:**
+- Reduced manual deployment effort by ~70%  
+- Improved release reliability and system scalability
+
+## 📊 DevOps Impact  
+
+- 🚀 Reduced deployment time using CI/CD automation  
+- ⚡ Improved system reliability with Kubernetes deployments  
+- 🔐 Enhanced security using Trivy & SonarQube scans  
+- 📉 Minimized downtime using container orchestration (EKS)  
 
 ---
 
@@ -75,6 +96,12 @@
 - Hosted and compared a website using **Nginx** and **Apache HTTPD**  
 - Configured **Nginx** as a reverse proxy and **Apache** for dynamic content
 
+---
+## 🌱 Currently Learning  
+
+- Advanced Kubernetes (Helm, HPA)  
+- GitOps (ArgoCD)  
+- Cloud Security & DevSecOps practices  
 ---
 
 ## 📈 GitHub Analytics  
