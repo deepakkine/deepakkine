@@ -30,7 +30,7 @@ Currently exploring advanced CI/CD pipelines, Kubernetes, and cloud-native secur
 
 ---
 
-## 🧩 Featured Projects  
+## 🧩 Featured Projects
 
 ### 🧠 Project 1: APIX (APISecurist)
 **Roles & Responsibilities:**
@@ -100,6 +100,23 @@ Currently exploring advanced CI/CD pipelines, Kubernetes, and cloud-native secur
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+## ⚙️ CI/CD Pipeline Flow  
+
+```mermaid
+flowchart LR
+    A[Code Push] --> B[GitHub Actions]
+    B --> C[Build Docker Image]
+    C --> D[Quality Scan]
+    D --> E[Security Scan]
+    E --> F[Push to ECR]
+    F --> G[Deploy to EKS]
+    G --> H[Monitoring]
+```
+
+<p align="center">
+  <img src="./CI_CD pipeline flow diagram.png" width="800"/>
+</p>
 ---
 
 ## 📊 Activity Graph  
