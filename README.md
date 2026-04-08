@@ -1,18 +1,35 @@
-# 👋 Hi there, I'm Deepak  
-### 🚀 DevOps Engineer | Cloud & Automation Enthusiast  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepakkine/deepakkine/main/banner.png" width="100%" />
+</p>
 
-I’m passionate about designing scalable infrastructure, automating workflows, and improving deployment reliability.  
-Currently exploring advanced CI/CD pipelines, Kubernetes, and cloud-native security best practices.
+<h1 align="center">Hi 👋, I'm Deepak Kine</h1>
+
+<h3 align="center">
+🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+</h3>
+
+<p align="center">
+💡 Building scalable cloud infrastructure | ⚙️ Automating deployments | 🔐 DevSecOps Enthusiast  
+</p>
+
+<p align="center">
+📍 India | 🎯 Open to DevOps / Cloud Engineer Roles
+</p>
 
 ---
 
 ## 🧠 About Me  
-- ☁️ Skilled in **AWS**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **GitHub Actions**  
-- 🧩 Experienced with **Prometheus**, **Grafana**, **CloudWatch**, **ECR**, **EKS**  
-- 💻 Strong Linux background — comfortable with shell scripting & server management  
-- 🧱 Hands-on with **Nginx**, **Apache HTTPD**, and **CI/CD automation**  
-- 🧠 Constantly learning new DevOps tools & cloud strategies  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/deepak-kine-10666b32a/) | [Email](mailto:kinedeepak@outlook.com)
+
+✔ Hands-on with **AWS (EKS, EC2, S3, IAM, VPC, RDS, ECR)**  
+✔ Containerization & orchestration using **Docker & Kubernetes (EKS, Minikube)**  
+✔ CI/CD automation with **GitHub Actions & Jenkins**  
+✔ Monitoring & observability using **Prometheus, Grafana & CloudWatch**  
+✔ DevSecOps practices using **Trivy & SonarQube**  
+✔ Strong in **Linux, Shell Scripting & Server Management**  
+✔ Experience with **Nginx, Apache HTTPD & reverse proxy setups**  
+
+📫 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/deepak-kine-10666b32a/) | [Email](mailto:kinedeepak@outlook.com)
 
 ---
 
