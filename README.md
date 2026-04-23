@@ -39,7 +39,7 @@
 
 ## 📄 Resume 
 
-🔗 [View Resume](https://github.com/deepakkine/deepakkine/main/Dipak_Kine.pdf)  
+🔗 [View Resume](https://github.com/deepakkine/deepakkine/blob/main/Dipak_Kine.pdf)  
 📥 [Download Resume](https://raw.githubusercontent.com/deepakkine/deepakkine/main/Dipak_Kine.pdf)
 
 ---
