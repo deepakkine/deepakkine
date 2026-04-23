@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Kine</h1>
 
 <h3 align="center">
-🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+🚀 DevOps Engineer | AWS | Docker | Kubernetes | Terraform | CI/CD
 </h3>
 
 <p align="center">
@@ -34,6 +34,13 @@
 
 📫 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/deepak-kine-10666b32a/) | [Email](mailto:kinedeepak@outlook.com)
+
+---
+
+## 📄 Resume 
+
+🔗 [View Resume](https://github.com/deepakkine/deepakkine/blob/main/Deepak_Kine_DevOps_Resume.pdf)  
+📥 [Download Resume](https://raw.githubusercontent.com/deepakkine/deepakkine/main/Deepak_Kine_DevOps_Resume.pdf)
 
 ---
 
