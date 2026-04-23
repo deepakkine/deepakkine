@@ -37,10 +37,11 @@
 
 ---
 
-## 📄 Resume 
+## 📄 Resume  
 
-🔗 [View Resume](https://github.com/deepakkine/deepakkine/blob/main/Dipak_Kine_DevOps_Engineer.pdf)  
-📥 [Download Resume](https://raw.githubusercontent.com/deepakkine/deepakkine/main/Dipak_Kine_DevOps_Engineer.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/deepakkine/deepakkine/main/Dipak_Kine_DevOps_Engineer.pdf)
+
+[![View Resume](https://img.shields.io/badge/View-Resume-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakkine/deepakkine/blob/main/Dipak_Kine_DevOps_Engineer.pdf)
 
 ---
 
