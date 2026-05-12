@@ -112,12 +112,12 @@
 - Cloud Security & DevSecOps practices  
 ---
 
-## 📈 GitHub Analytics  
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakkine&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepakkine&theme=tokyonight" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkine&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakkine&theme=tokyonight" />
 </p>
 
 <p align="center">
