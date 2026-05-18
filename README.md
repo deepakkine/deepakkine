@@ -190,3 +190,11 @@ flowchart LR
 ## 💬 Daily DevOps Quote  
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepakkine/deepakkine/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
