@@ -71,6 +71,26 @@
 
 ## 🧩 Featured Projects
 
+### 🏗️ AWS Infrastructure Automation with Terraform and Jenkins
+
+**Tech Stack:** AWS, Terraform, Jenkins, GitHub, S3 Remote Backend, EC2, VPC  
+**Repository:** [aws-terraform-jenkins-infra](https://github.com/deepakkine/aws-terraform-jenkins-infra/tree/dev)
+
+- Built a Jenkins CI/CD pipeline to automate **Terraform init, fmt check, validate, plan, apply, and destroy**
+- Provisioned AWS infrastructure including **VPC, public/private subnets, EC2, S3, route tables, and internet gateway**
+- Configured **S3 remote backend** for Terraform state management with versioning enabled
+- Customized the dev environment to reduce cost by using a smaller EC2 setup and removing NAT Gateway from dev
+- Fixed real-world issues including AWS provider version mismatch, Jenkins disk threshold, and Jenkins temp-space errors
+
+🚀 **Impact:**
+- Automated the full AWS infrastructure lifecycle from GitHub through Jenkins
+- Improved repeatability, remote state management, and cleanup using a dedicated destroy pipeline
+
+[![View Project](https://img.shields.io/badge/View_Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepakkine/aws-terraform-jenkins-infra/tree/dev)
+[![Case Study](https://img.shields.io/badge/Case_Study-Terraform%20%2B%20Jenkins-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/deepakkine/aws-terraform-jenkins-infra/blob/dev/README.md)
+
+---
+
 ### 🧠 APIX (APISecurist)
 
 **Tech Stack:** AWS, EKS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
