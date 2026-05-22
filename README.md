@@ -91,6 +91,42 @@
 
 ---
 
+## 🚀 GitOps Deployment on AWS EKS using ArgoCD
+
+**Tech Stack:** AWS EKS, Kubernetes, Docker, ArgoCD, GitHub Actions, Helm, ECR
+
+🔗 **Repository:**  
+https://github.com/deepakkine/devops-eks-argocd-assignment
+
+### 🚀 Highlights
+
+- Implemented complete GitOps workflow using ArgoCD
+- Automated Kubernetes deployments using GitHub Actions
+- Built and pushed Docker images securely to Amazon ECR
+- Managed Kubernetes manifests declaratively
+- Configured Kubernetes services and ingress
+- Implemented continuous synchronization using ArgoCD
+
+### 📈 Impact
+
+- Reduced manual Kubernetes deployment effort
+- Improved deployment consistency and rollback capability
+- Enabled automated application delivery pipeline
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/deepakkine/devops-eks-argocd-assignment">
+    <img src="https://img.shields.io/badge/View_Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 🧠 APIX (APISecurist)
 
 **Tech Stack:** AWS, EKS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
@@ -130,6 +166,7 @@
 - Advanced Kubernetes (Helm, HPA)  
 - GitOps (ArgoCD)  
 - Cloud Security & DevSecOps practices  
+- Platform Engineering
 ---
 
 ## 📈 GitHub Analytics
