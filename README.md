@@ -33,7 +33,7 @@
 ✔ Experience with **Nginx, Apache HTTPD & reverse proxy setups**  
 
 📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/deepak-kine-10666b32a/) | [Email](mailto:kinedeepak@outlook.com) | <details style="display: inline;"><summary style="display: inline; cursor: pointer; color: #58a6ff; text-decoration: underline; list-style: none;">Phone</summary><span style="color: #ffffff; margin-left: 5px;">: +91 72648 32029</span></details>
+[LinkedIn](https://www.linkedin.com/in/deepak-kine-10666b32a/) | [Email](mailto:kinedeepak@outlook.com) | <details style="display: inline;"><summary style="display: inline; color: #58a6ff; text-decoration: underline; list-style: none; webkit-details-marker: none;"><span style="color: #58a6ff; text-decoration: underline; cursor: pointer;">Phone</span></summary><span style="color: #ffffff; margin-left: 5px;">: +91 72648 32029</span></details>
 ---
 
 ## 📄 Resume  
