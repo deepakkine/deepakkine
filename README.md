@@ -70,12 +70,29 @@
 
 # 🧩 Featured Projects
 
-## 🚀 End-to-End DevOps Automation on AWS EKS
+# 🚀 End-to-End DevOps Automation on AWS EKS
 
 **Tech Stack:** AWS EKS, Terraform, Kubernetes, Docker, GitHub Actions, ArgoCD, Amazon ECR, Trivy, MySQL, HPA, PVC
 
 🔗 **Repository:**  
 https://github.com/deepakkine/terraform-eks-githubactions-argocd
+
+### 🛠️ Tools Used
+
+- AWS (EKS, ECR, IAM, VPC, EC2, CloudWatch)
+- Terraform
+- Kubernetes
+- Docker
+- GitHub Actions
+- ArgoCD
+- Amazon ECR
+- Trivy
+- MySQL
+- Apache HTTPD
+- PHP 8.2
+- CodeIgniter 4
+- Linux
+- Git
 
 ### 🚀 Highlights
 
