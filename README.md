@@ -68,9 +68,61 @@
 
 ---
 
-## 🧩 Featured Projects
+# 🧩 Featured Projects
 
-### 🏗️ AWS Infrastructure Automation with Terraform and Jenkins
+## 🚀 End-to-End DevOps Automation on AWS EKS
+
+**Tech Stack:** AWS EKS, Terraform, Kubernetes, Docker, GitHub Actions, ArgoCD, Amazon ECR, Trivy, MySQL, HPA, PVC
+
+🔗 **Repository:**  
+https://github.com/deepakkine/terraform-eks-githubactions-argocd
+
+### 🚀 Highlights
+
+- Provisioned AWS infrastructure using reusable Terraform modules
+- Created Amazon EKS cluster with managed worker nodes
+- Built and optimized Docker images using multi-stage Docker builds
+- Automated CI/CD pipeline using GitHub Actions
+- Integrated Trivy security scanning into the deployment workflow
+- Pushed container images to Amazon ECR with automated versioning
+- Implemented GitOps continuous deployment using ArgoCD
+- Deployed a CodeIgniter E-Commerce application on Kubernetes
+- Configured ConfigMaps, Secrets, Persistent Volumes, and Horizontal Pod Autoscaler
+- Implemented rolling updates, readiness probes, and liveness probes
+- Performed end-to-end troubleshooting of Kubernetes, ArgoCD, Docker, Apache, and database connectivity issues
+- Created detailed deployment documentation, architecture diagrams, and operational runbooks
+
+### 📈 Impact
+
+- Automated complete infrastructure provisioning and application deployment lifecycle
+- Enabled GitOps-driven deployments with ArgoCD synchronization
+- Improved deployment consistency and rollback capability
+- Added container vulnerability scanning using Trivy
+- Reduced manual deployment effort through CI/CD automation
+- Implemented scalable Kubernetes workloads with HPA and persistent storage
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/deepakkine/terraform-eks-githubactions-argocd">
+    <img src="https://img.shields.io/badge/View_Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/deepakkine/terraform-eks-githubactions-argocd/blob/main/README.md">
+    <img src="https://img.shields.io/badge/Case_Study-DevOps_Platform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🏗️ AWS Infrastructure Automation with Terraform and Jenkins
 
 **Tech Stack:** AWS, Terraform, Jenkins, GitHub, S3 Remote Backend, EC2, VPC  
 **Repository:** [aws-terraform-jenkins-infra](https://github.com/deepakkine/aws-terraform-jenkins-infra/tree/dev)
@@ -126,7 +178,7 @@ https://github.com/deepakkine/devops-eks-argocd-assignment
 
 ---
 
-### 🧠 APIX (APISecurist)
+## 🧠 APIX (APISecurist)
 
 **Tech Stack:** AWS, EKS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
 
@@ -150,7 +202,7 @@ https://github.com/deepakkine/devops-eks-argocd-assignment
 
 ---
 
-### 🏗️ AWS Three-Tier Architecture  
+## 🏗️ AWS Three-Tier Architecture  
 - Designed and deployed a secure and scalable **three-tier web app** using AWS services  
 - Used **Docker + Kubernetes (EKS)** for container orchestration  
 - Automated builds and deployments using **CI/CD pipelines**
