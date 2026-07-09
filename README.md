@@ -70,6 +70,102 @@
 
 # 🧩 Featured Projects
 
+# 🚀 Production-Ready AWS Three-Tier DevSecOps Platform
+
+**Tech Stack:** AWS, Terraform, Amazon EKS, Docker, Kubernetes, GitHub Actions, Helm, NGINX Ingress, Amazon ECR, Prometheus, Grafana, Alertmanager, cert-manager, Trivy
+
+🔗 **Repository:**
+https://github.com/deepakkine/aws-three-tier-devsecops-platform
+
+### 🛠️ Tools Used
+
+- AWS (EKS, EC2, VPC, IAM, ECR, s3)
+- Terraform
+- Docker
+- Kubernetes
+- Helm
+- GitHub Actions
+- GitHub OIDC
+- Amazon ECR
+- NGINX Ingress Controller
+- AWS Load Balancer Controller
+- EBS CSI Driver
+- cert-manager
+- Let's Encrypt
+- Prometheus
+- Grafana
+- Namecheap # DNS Server
+- Alertmanager
+- Metrics Server
+- Trivy
+- Linux
+- Git
+
+### 🚀 Highlights
+
+- Provisioned complete AWS infrastructure using reusable Terraform modules
+- Configured remote Terraform backend using Amazon S3 and DynamoDB state locking
+- Built highly available Amazon EKS cluster with managed node groups
+- Implemented GitHub OIDC authentication eliminating long-lived AWS credentials
+- Containerized a React frontend and Node.js backend using Docker
+- Published versioned container images to Amazon ECR automatically
+- Designed reusable Helm charts for Kubernetes deployments
+- Automated CI/CD using GitHub Actions with build, security scan, image push and deployment stages
+- Integrated Trivy filesystem and container image vulnerability scanning
+- Configured NGINX Ingress Controller with AWS Network Load Balancer
+- Automated HTTPS certificate provisioning using cert-manager and Let's Encrypt
+- Integrated Prometheus, Grafana, Alertmanager and Metrics Server for monitoring and observability
+- Configured persistent storage using Amazon EBS CSI Driver
+- Implemented Infrastructure as Code for Kubernetes add-ons including Ingress, Monitoring and ClusterIssuer
+- Added workflow concurrency protection to prevent simultaneous Helm deployments
+- Documented deployment architecture, troubleshooting guide and operational runbooks
+
+### 🔧 Real-World Challenges Solved
+
+- Configured GitHub OIDC authentication with IAM Roles
+- Resolved ClusterIssuer creation and certificate provisioning issues
+- Fixed Let's Encrypt HTTP-01 challenge failures
+- Solved DNS propagation and HTTPS certificate generation issues
+- Configured AWS Load Balancer Controller with IAM Roles for Service Accounts (IRSA)
+- Resolved Kubernetes provider timeout during Terraform destroy
+- Eliminated Helm deployment lock errors using GitHub Actions concurrency
+- Automated ClusterIssuer provisioning through Terraform
+- Implemented production-style repository structure and reusable Terraform modules
+
+### 📈 Impact
+
+- Automated complete infrastructure provisioning and application deployment
+- Enabled secure passwordless GitHub to AWS authentication using OIDC
+- Reduced manual deployment effort through Infrastructure as Code
+- Implemented production-ready Kubernetes deployment workflow
+- Added automated vulnerability scanning to CI/CD
+- Enabled secure HTTPS access with automatic certificate renewal
+- Improved application observability with centralized monitoring
+- Built a reusable DevSecOps platform following cloud-native best practices
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/deepakkine/aws-three-tier-devsecops-platform">
+    <img src="https://img.shields.io/badge/View_Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/deepakkine/aws-three-tier-devsecops-platform/blob/main/README.md">
+    <img src="https://img.shields.io/badge/Case_Study-Production_DevSecOps_Platform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 # 🚀 End-to-End DevOps Automation on AWS EKS
 
 **Tech Stack:** AWS EKS, Terraform, Kubernetes, Docker, GitHub Actions, ArgoCD, Amazon ECR, Trivy, MySQL, HPA, PVC
@@ -292,37 +388,6 @@ https://github.com/deepakkine/devops-eks-argocd-assignment
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
-
----
-
-## 🏗️ AWS Three-Tier Architecture
-
-**Tech Stack:** AWS, Docker, Kubernetes, Amazon EKS, CI/CD
-
-### 🛠️ Tools Used
-
-* AWS
-* Amazon EKS
-* Docker
-* Kubernetes
-* GitHub
-* CI/CD Pipelines
-
-### 🚀 Highlights
-
-* Designed and deployed a secure and scalable three-tier web application architecture
-* Implemented presentation, application, and database layers
-* Containerized application workloads using Docker
-* Deployed containers on Amazon EKS
-* Automated builds and deployments using CI/CD pipelines
-* Implemented scalable cloud-native architecture principles
-
-### 📈 Impact
-
-* Improved scalability and fault tolerance
-* Reduced deployment complexity through containerization
-* Enabled cloud-native application deployment
-* Increased infrastructure reliability
 
 ---
 
